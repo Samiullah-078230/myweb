@@ -1,6 +1,6 @@
 import Mypic from '../assets/mypic.png'
 import logo from '../assets/logo.png'
-import Mypic1 from "../assets/Mypic1.png"; 
+import Mypic1 from "../assets/mypic1.png"; 
 import { useState } from "react";
 import { HiMenu, HiX } from "react-icons/hi";
 
